@@ -96,7 +96,7 @@ Creating professional-grade Markdown templates for reporting offensive engagemen
 
 ---
 ## Connect  
-[LinkedIn](https://www.linkedin.com/in/robert-morgan/) | [GitHub](https://github.com/Morgan-RobertW) | [Portfolio](#)  
+[LinkedIn](https://www.linkedin.com/in/morgan-robert/) | [GitHub](https://github.com/Morgan-RobertW) | [Portfolio](#)  
 
 ---
 
