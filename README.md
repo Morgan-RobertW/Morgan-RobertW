@@ -1,4 +1,4 @@
-# Greeting, my name is Robert
+# Let me introduce myself, my name is Robert Morgan
 <a href="https://www.linkedin.com/in/morgan-robert/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I’m a 20-year Marine Corps veteran transitioning from Learning & Development to Cybersecurity. I bring proven leadership, analytical thinking, and a disciplined approach to technology. Focused on mastering system administration, network defense, and cybersecurity fundamentals while applying a mission-oriented mindset to strengthen digital resilience and operational efficiency.
